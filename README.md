@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
