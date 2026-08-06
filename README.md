@@ -31,8 +31,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
