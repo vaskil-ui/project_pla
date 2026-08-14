@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/vaskil-ui/project_pla/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaskil-ui/project_pla/tree/master/0001-two-sum) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+## Counting
+|  |
+| ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 <!---LeetCode Topics End-->
