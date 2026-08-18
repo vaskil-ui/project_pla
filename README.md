@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/vaskil-ui/project_pla/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaskil-ui/project_pla/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
@@ -23,6 +25,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/vaskil-ui/project_pla/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -52,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting
 |  |
