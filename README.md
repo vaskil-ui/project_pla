@@ -17,11 +17,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
+| [0443-string-compression](https://github.com/vaskil-ui/project_pla/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
+| [0443-string-compression](https://github.com/vaskil-ui/project_pla/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
