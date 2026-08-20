@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
