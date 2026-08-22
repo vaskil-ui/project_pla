@@ -43,6 +43,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaskil-ui/project_pla/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Trie
 |  |
 | ------- |
