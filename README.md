@@ -48,6 +48,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vaskil-ui/project_pla/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaskil-ui/project_pla/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaskil-ui/project_pla/tree/master/3875-construct-uniform-parity-array-i) |
