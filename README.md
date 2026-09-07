@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaskil-ui/project_pla/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vaskil-ui/project_pla/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaskil-ui/project_pla/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaskil-ui/project_pla/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
