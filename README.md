@@ -50,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vaskil-ui/project_pla/tree/master/0263-ugly-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/vaskil-ui/project_pla/tree/master/1688-count-of-matches-in-tournament) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaskil-ui/project_pla/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/vaskil-ui/project_pla/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
