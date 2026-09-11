@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -30,6 +31,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vaskil-ui/project_pla/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/vaskil-ui/project_pla/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 ## String
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vaskil-ui/project_pla/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/vaskil-ui/project_pla/tree/master/0509-fibonacci-number) |
