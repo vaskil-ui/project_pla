@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
+| [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaskil-ui/project_pla/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaskil-ui/project_pla/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
