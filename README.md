@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaskil-ui/project_pla/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting
 |  |
