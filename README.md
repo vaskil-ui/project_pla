@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
+| [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -29,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/vaskil-ui/project_pla/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0443-string-compression](https://github.com/vaskil-ui/project_pla/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -72,12 +74,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaskil-ui/project_pla/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
+| [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting
 |  |
@@ -122,4 +126,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
