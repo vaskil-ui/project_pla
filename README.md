@@ -15,6 +15,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaskil-ui/project_pla/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaskil-ui/project_pla/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaskil-ui/project_pla/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaskil-ui/project_pla/tree/master/3875-construct-uniform-parity-array-i) |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/vaskil-ui/project_pla/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaskil-ui/project_pla/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaskil-ui/project_pla/tree/master/3483-unique-3-digit-even-numbers) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vaskil-ui/project_pla/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaskil-ui/project_pla/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaskil-ui/project_pla/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaskil-ui/project_pla/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaskil-ui/project_pla/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
