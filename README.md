@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/vaskil-ui/project_pla/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaskil-ui/project_pla/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/vaskil-ui/project_pla/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
