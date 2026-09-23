@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/vaskil-ui/project_pla/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vaskil-ui/project_pla/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vaskil-ui/project_pla/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vaskil-ui/project_pla/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vaskil-ui/project_pla/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vaskil-ui/project_pla/tree/master/0263-ugly-number) |
