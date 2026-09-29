@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vaskil-ui/project_pla/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vaskil-ui/project_pla/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/vaskil-ui/project_pla/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
