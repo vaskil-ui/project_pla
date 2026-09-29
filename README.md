@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vaskil-ui/project_pla/tree/master/0066-plus-one) |
+| [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vaskil-ui/project_pla/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/vaskil-ui/project_pla/tree/master/0735-asteroid-collision) |
@@ -96,6 +97,7 @@
 | [0015-3sum](https://github.com/vaskil-ui/project_pla/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
 | [0881-boats-to-save-people](https://github.com/vaskil-ui/project_pla/tree/master/0881-boats-to-save-people) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaskil-ui/project_pla/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vaskil-ui/project_pla/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -156,4 +158,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
