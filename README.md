@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/vaskil-ui/project_pla/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vaskil-ui/project_pla/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/vaskil-ui/project_pla/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vaskil-ui/project_pla/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/vaskil-ui/project_pla/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaskil-ui/project_pla/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaskil-ui/project_pla/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/vaskil-ui/project_pla/tree/master/0064-minimum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vaskil-ui/project_pla/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vaskil-ui/project_pla/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/vaskil-ui/project_pla/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
